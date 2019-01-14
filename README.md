@@ -7,6 +7,8 @@ A pixel-aligned point of interest icon set made for cartographers.
 
 This repo only contains the source SVG files. Check out [maki website](https://mapbox.com/maki-icons/) to use an icon editing tool and read detailed design guidelines.
 
+This set is designed specifically for use with QGIS. Copy the files into a new folder within your current QGIS install's apps\qgis\svg\ folder. For example, copy to : Program Files\QGIS 3.4\apps\qgis\svg\maki
+
 ## Format
 
 - Source icons are in the SVG file format.
